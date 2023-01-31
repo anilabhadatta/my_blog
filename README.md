@@ -7,6 +7,6 @@ To start the server enter the following command:
 ## python manage.py runserver
 
 This project is deployed in Amazon AWS using Elastic BeanStalk , RDS-PostGres, S3 Bucket, To access the webpage click on any link below:
-## http://anilabha.me or http://myfirstblog-env.eba-jpkp7diw.us-east-2.elasticbeanstalk.com/
+## https://myblog.anilabha-datta.tech/
 
 If you want to deploy this project in AWS Elastic Beanstalk then make sure to provide Secret Key in settings.py and AWS PostGres Auth details or use the local SQLITE database and AWS S3 Bucket Auth details if you want to use S3 bucket to save static files and images.
